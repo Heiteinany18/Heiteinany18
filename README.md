@@ -1,3 +1,12 @@
+<h2> About</h2>
+
+I'm a frontend developer . I really like to share knowledge and experience to help others become better or deal with career or tech problems. I'm happy to communicate and meet new people, so feel free to reach out to me.
+
+💻 I’m currently looking forward to find a job
+📚 I’m passionate in working as a web developer
+🌱 I’m currently diving deeper into web and frameworks performance
+💬 Ask me about web-development, React and career-related topics
+
 <a href="https://app.daily.dev/DavidMphande"><img src="https://api.daily.dev/devcards/80028a53da454fe691bd9d99b9c42781.png?r=tcy" width="400" alt="david mphande's Dev Card"/></a>
 
 <h2>🛠️ Languages and Tools</h2>

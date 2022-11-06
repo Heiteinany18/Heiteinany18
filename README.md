@@ -7,7 +7,7 @@ I'm a frontend developer . I really like to share knowledge and experience to he
 - 🌱 I’m currently diving deeper into web and frameworks performance
 - 💬 Ask me about web-development, React and career-related topic
 
-<img align="right" alt="coding" width="400" src="/assets/Avater.gif">
+<img align="right" align-item="center" alt="coding" width="400" src="/assets/Avater.gif">
 <a href="https://app.daily.dev/DavidMphande"><img src="https://api.daily.dev/devcards/80028a53da454fe691bd9d99b9c42781.png?r=kws" width="400" alt="david mphande's Dev Card"/></a>
 
 <h2>🛠️ Languages and Tools</h2>
@@ -22,7 +22,6 @@ I'm a frontend developer . I really like to share knowledge and experience to he
 Feel free to contact me on these social networks.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirillkurko/)
-[![LinkedIn Badge](https://img.shields.io/badge/Codewars-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirillkurko/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heiteinany18&show_icons=true&locale=en&layout=compact" alt="heiteinany18" /></p>
 

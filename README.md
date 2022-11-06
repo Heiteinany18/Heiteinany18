@@ -1,4 +1,4 @@
-assets/header-image.png
+![Header](./assets/header-image.png)
 
 <h2> About</h2>
 

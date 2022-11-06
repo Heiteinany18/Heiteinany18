@@ -1,3 +1,5 @@
+/assets/header-image.png
+
 <h2> About</h2>
 
 I'm a frontend developer . I really like to share knowledge and experience to help others become better or deal with career or tech problems. I'm happy to communicate and meet new people, so feel free to reach out to me.

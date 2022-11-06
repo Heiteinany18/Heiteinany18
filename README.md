@@ -16,7 +16,7 @@ I'm a frontend developer . I really like to share knowledge and experience to he
   </a>
 </p>
 
-### 💬 Let's connect
+### <h2>💬 Let's connect</h2>
 
 Feel free to contact me on these social networks.
 

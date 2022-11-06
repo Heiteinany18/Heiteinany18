@@ -9,7 +9,7 @@ I'm a frontend developer . I really like to share knowledge and experience to he
 
 <a href="https://app.daily.dev/DavidMphande"><img src="https://api.daily.dev/devcards/80028a53da454fe691bd9d99b9c42781.png?r=kws" width="400" alt="david mphande's Dev Card"/></a>
 
-[]Avater.gif
+![Header](./assets/Avater.gif)
 
 <h2>🛠️ Languages and Tools</h2>
 <p align="center">

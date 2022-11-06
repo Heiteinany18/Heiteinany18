@@ -22,6 +22,7 @@ I'm a frontend developer . I really like to share knowledge and experience to he
 Feel free to contact me on these social networks.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirillkurko/)
+[![CodeWars Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kirillkurko/](https://www.codewars.com/users/DavidMphande))
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heiteinany18&show_icons=true&locale=en&layout=compact" alt="heiteinany18" /></p>
 

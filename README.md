@@ -1,5 +1,5 @@
-<img alt="coding" width="100%" height="300" src="/assets/Header1.jpg">
-
+<img alt="coding" width="100%" height="300" border="5" src="/assets/Header1.jpg">
+### I'm David a frontend developer
 <h2> About</h2>
 
 I'm a frontend developer . I really like to share knowledge and experience to help others become better or deal with career or tech problems. I'm happy to communicate and meet new people, so feel free to reach out to me.

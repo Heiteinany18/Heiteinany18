@@ -1,4 +1,4 @@
-![Header](./assets/Header.jpg)
+<img alt="coding" width="100%" src="/assets/Header.jpg">
 
 <h2> About</h2>
 

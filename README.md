@@ -7,7 +7,7 @@ I'm a frontend developer . I really like to share knowledge and experience to he
 - 🌱 I’m currently diving deeper into web and frameworks performance
 - 💬 Ask me about web-development, React and career-related topic
 
-<img align="right" alt="coding" width="400" height="400" src="/assets/Avater.gif">
+<img align="right" alt="coding" width="400" src="/assets/Avater.gif">
 <a href="https://app.daily.dev/DavidMphande"><img src="https://api.daily.dev/devcards/80028a53da454fe691bd9d99b9c42781.png?r=4se" width="400" alt="david mphande's Dev Card"/></a>
 
 <h2>🛠️ Languages and Tools</h2>
@@ -17,7 +17,7 @@ I'm a frontend developer . I really like to share knowledge and experience to he
   </a>
 </p>
 
-### <h2>💬 Let's connect</h2>
+<h2>💬 Let's connect</h2>
 
 Feel free to contact me on these social networks.
 

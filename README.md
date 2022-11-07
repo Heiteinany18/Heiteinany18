@@ -1,4 +1,4 @@
-<img alt="coding" width="100%" src="/assets/Header1.jpg">
+<img alt="coding" width="100%" height="300" src="/assets/Header1.jpg">
 
 <h2> About</h2>
 

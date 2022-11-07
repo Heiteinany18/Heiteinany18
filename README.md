@@ -1,6 +1,7 @@
 <img alt="coding" width="100%" height="300" border="5%" src="/assets/Header1.jpg">
 
-<h1>I'm David a frontend developer</h1>
+### Hi 👋 i'm David 
+### A frontend developer
 
 <h2> About</h2>
 

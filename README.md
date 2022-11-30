@@ -13,7 +13,7 @@ I'm a frontend developer . I really like to share knowledge and experience to he
 - 💬 Ask me about web-development, React and career-related topic
 
 <!--  For Coder Gif Image  -->
-<img align="right" alt="coding" width="400" src="/assets/Avater.gif">
+<img align="right" alt="coding" width="400" src="/assets/Animated Coder.gif">
 <a href="https://app.daily.dev/DavidMphande"><img src="https://api.daily.dev/devcards/80028a53da454fe691bd9d99b9c42781.png?r=qof" width="400" alt="david mphande's Dev Card"/></a>
 
 <h2>🛠️ Languages and Tools</h2>

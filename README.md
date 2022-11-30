@@ -25,7 +25,7 @@ I'm a frontend developer . I really like to share knowledge and experience to he
 
 Feel free to contact me on these social networks.
   
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mphande-0721ab236/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidmphande1/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mphande-0721ab236/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidmphande1/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/david.mphande.35/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heiteinany18&show_icons=true&locale=en&layout=compact" alt="heiteinany18" /></p>
 

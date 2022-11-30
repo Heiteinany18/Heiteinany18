@@ -25,8 +25,9 @@ I'm a frontend developer . I really like to share knowledge and experience to he
 
 Feel free to contact me on these social networks.
 
-<div align="center">
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mphande-0721ab236/)
+<div display="flex">
+  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mphande-0721ab236/)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidmphande1/)
 

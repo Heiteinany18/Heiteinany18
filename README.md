@@ -40,6 +40,3 @@ Feel free to contact me on these social networks.
 <!--  Streak Stats  -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heiteinany18&" alt="heiteinany18" /></p>
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?heiteinany18=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
-/>

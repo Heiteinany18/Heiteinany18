@@ -41,4 +41,4 @@ Feel free to contact me on these social networks.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heiteinany18&" alt="heiteinany18" /></p>
 
 
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+<codersrank-skills-chart username="heiteinany18"></codersrank-skills-chart>

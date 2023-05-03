@@ -42,7 +42,12 @@ Feel free to contact me on these social networks.
   
   <!--  Codersrank Stats  -->
 <img alt="Codersrank Stats"  width="80%" height="200" border="0%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heiteinany18">
-  <!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+  
+<codersrank-skills-chart
+  username="heiteinany18"
+  labels
+  legend
+  tooltip
+></codersrank-skills-chart>
  
 

@@ -37,11 +37,10 @@ Feel free to contact me on these social networks.
 <!--  GitHub Stats  -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heiteinany18&show_icons=true&locale=en" alt="heiteinany18" /></p>
 
-<!--  Codersrank Stats  -->
-<codersrank-summary username="heiteinany18"></codersrank-summary>
-<img alt="coding" width="100%" height="300" border="5%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heiteinany18">
-
-
 <!--  Streak Stats  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heiteinany18&" alt="heiteinany18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heiteinany18&" alt="heiteinany18" /></p
+  
+  <!--  Codersrank Stats  -->
+<codersrank-summary username="heiteinany18"></codersrank-summary>
+<img alt="Codersrank Stats" width="100%" height="200" border="0%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heiteinany18">
 

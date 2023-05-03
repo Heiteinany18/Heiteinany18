@@ -39,6 +39,7 @@ Feel free to contact me on these social networks.
 
 <!--  Codersrank Stats  -->
 <codersrank-summary username="heiteinany18"></codersrank-summary>
+https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heiteinany18
 
 <!--  Streak Stats  -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heiteinany18&" alt="heiteinany18" /></p>

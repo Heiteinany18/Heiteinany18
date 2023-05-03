@@ -42,5 +42,5 @@ Feel free to contact me on these social networks.
   
   <!--  Codersrank Stats  -->
 <codersrank-summary username="heiteinany18"></codersrank-summary>
-<img alt="Codersrank Stats" style="background-size:cover;" width="100%" height="200" border="0%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heiteinany18">
+<img alt="Codersrank Stats"  width="70%" height="200" border="0%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heiteinany18">
 

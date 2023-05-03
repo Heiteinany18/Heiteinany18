@@ -43,11 +43,4 @@ Feel free to contact me on these social networks.
   <!--  Codersrank Stats  -->
 <img alt="Codersrank Stats"  width="80%" height="200" border="0%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heiteinany18">
   
-<codersrank-skills-chart
-  username="heiteinany18"
-  labels
-  legend
-  tooltip
-></codersrank-skills-chart>
- 
-
+https://cr-skills-chart-widget.azurewebsites.net/api/api?username=heiteinany18

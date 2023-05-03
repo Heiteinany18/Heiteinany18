@@ -44,6 +44,6 @@ Feel free to contact me on these social networks.
 <codersrank-summary username="heiteinany18"></codersrank-summary>
 <img alt="Codersrank Stats"  width="80%" height="200" border="0%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heiteinany18">
   <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heiteinany18&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 

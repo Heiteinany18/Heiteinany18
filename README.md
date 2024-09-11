@@ -5,12 +5,12 @@
 <h2>💡‍ About</h2>
 
 <!--  About Section  -->
-I'm a frontend developer . I really like to share knowledge and experience to help others become better or deal with career or tech problems. I'm happy to communicate and meet new people, so feel free to reach out to me.
+I really like to share knowledge and experience to help others become better or deal with career or tech problems. I'm happy to communicate and meet new people, so feel free to reach out to me.
 
 - 💻 I’m currently looking forward to find a job
-- 📚 I’m passionate in working as a web develope
+- 📚 I’m passionate in working as a web developer
 - 🌱 I’m currently diving deeper into web and frameworks performance
-- 💬 Ask me about web-development, React and career-related topic
+- 💬 Ask me about web-development, Python and career-related topic
 
 <!--  For Coder Gif Image  -->
 <img align="right" alt="coding" width="400" src="/assets/Animated Coder.gif">
